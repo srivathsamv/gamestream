@@ -1,0 +1,26 @@
+# Hand-written, original sample transcript for testing the NLP parser locally.
+# Not scraped from any live feed or real match — invented sentences only,
+# written to exercise a range of the action vocabulary (pass, cross, shot,
+# tackle, interception, save). Replace with your own real transcript for
+# actual demos (grabbed manually, once, for personal non-commercial use).
+
+3' Home GK rolls it out short to the right back to start the move.
+6' A give-and-go down the left, the winger slips it back inside.
+11' Long ball forward, headed clear by the away center back.
+14' Away midfielder wins the ball with a strong tackle in midfield.
+19' Quick one-two through the middle, played into space.
+23' Cross whipped in from the right, but it's cut out by a defender.
+27' Shot from the edge of the box, straight at the keeper.
+31' Away side intercepts a loose pass near the halfway line.
+36' Save! The keeper tips a low effort around the post.
+41' Cross into the box, glanced just wide.
+44' A cute pass through the lines splits the defense open.
+52' Tackle from behind stops a promising break.
+58' Cross from deep, headed over the bar.
+63' Shot on the turn, blocked by a covering defender.
+67' Interception near the box snuffs out a dangerous ball in.
+71' Pass out to the wing to reset the attack.
+76' Save from a deflected shot, tipped over for a corner.
+82' Cross swung in early, met but off target.
+86' Late tackle wins possession back in a dangerous area.
+90' Final pass of the half, cleared before it finds a runner.
